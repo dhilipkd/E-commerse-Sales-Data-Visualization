@@ -4,6 +4,8 @@ Project Description:
 
 This interactive Excel dashboard provides a comprehensive overview of e-commerce performance by analyzing key metrics such as Total Sales, Profit, and Quantity. It visualizes category-wise, region-wise, ship-mode-wise, and state-wise performance using dynamic pivot charts and slicers, enabling data-driven decision-making.
 
+<img width="1920" height="1080" alt="Excel project" src="https://github.com/user-attachments/assets/2cd2af61-87f1-4c2b-91e7-55a547d1f450" />
+
 Objective:
 
 To analyze sales trends and profit distribution across categories, regions, and shipping modes to identify business insights and growth opportunities.
